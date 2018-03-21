@@ -1,0 +1,2 @@
+> ls -t mx mail.ru 
+[ns1.mail.ru]
